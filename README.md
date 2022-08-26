@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8282341&assignment_repo_type=AssignmentRepo)
 # Lab 1 - Twin Cities Ice Cream 
 
 Listed below is an image of the completed interface for Twin Cities Ice Cream.  Using files in this repository, download and complete the 10 steps below to achieve the desired design and layout of Twin Cities Ice Cream homepage.  This lab will focus on implement the basic concepts of HTML and CSS.
